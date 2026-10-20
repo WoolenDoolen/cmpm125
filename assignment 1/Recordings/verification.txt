@@ -1,0 +1,2 @@
+PASS: Input System selection, movement, both rotation directions, grow/shrink, off/on for all three objects; arrow keys; minimum and maximum scale limits.
+Recorded 360 frames from the running Unity scene at 20 fps.
